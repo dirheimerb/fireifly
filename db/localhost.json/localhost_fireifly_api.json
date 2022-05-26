@@ -1,0 +1,11 @@
+[
+    {
+        "type": "header",
+        "version": "4.9.7",
+        "comment": "Export to JSON plugin for PHPMyAdmin"
+    },
+    {
+        "type": "database",
+        "name": "fireifly_api"
+    }
+]

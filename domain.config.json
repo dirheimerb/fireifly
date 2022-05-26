@@ -1,0 +1,11 @@
+{
+    "domain": {
+        "primary": "fireifly.com",
+        "directory": "/home2/fireifly",
+        "user": "fireifly"
+    },
+    "dns": {
+        "server1": "ns8615.hostgator.com",
+        "server2": "ns8616.hostgator.com"
+    }
+}
