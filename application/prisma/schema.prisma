@@ -7,5 +7,5 @@ generator client {
 
 datasource db {
  provider = "sqlite"
-  url      = "file:./fireifly_ftoo903.sql"
+  url      = "file:./dev.db"
 }
